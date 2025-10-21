@@ -69,14 +69,18 @@ where \(e = x_{target} - x\) is the error between the desired and current positi
 
 ---
 
-## How to Run
+### Prerequisites
+Make sure you have Python 3 installed with these libraries:
+pip install matplotlib numpy
+
+---
+
+### How to Run
 1. Download the file and run it through the Python IDLE, or enter python ball_pid_sim.py into the command prompt.
 2. When prompted, enter PID gain values.
 3. Code will run the simulation.
 
-### Prerequisites
-Make sure you have Python 3 installed with these libraries:
-pip install matplotlib numpy
+---
 
 ### References
 Modern Control Systems — Dorf & Bishop
